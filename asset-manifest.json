@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lantranad2/monsters-rolodex/static/css/main.d7f83e10.css",
+    "main.js": "/lantranad2/monsters-rolodex/static/js/main.aa6aa881.js",
+    "static/js/787.0b028f6e.chunk.js": "/lantranad2/monsters-rolodex/static/js/787.0b028f6e.chunk.js",
+    "index.html": "/lantranad2/monsters-rolodex/index.html",
+    "main.d7f83e10.css.map": "/lantranad2/monsters-rolodex/static/css/main.d7f83e10.css.map",
+    "main.aa6aa881.js.map": "/lantranad2/monsters-rolodex/static/js/main.aa6aa881.js.map",
+    "787.0b028f6e.chunk.js.map": "/lantranad2/monsters-rolodex/static/js/787.0b028f6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7f83e10.css",
+    "static/js/main.aa6aa881.js"
+  ]
+}
