@@ -12,21 +12,6 @@ class App extends Component {
     };
   }
 
-  // componentDidMount() {}
-  // monsters' names, emails: placeholder
-  // images: https://robohash.org/m9?set=set2&size=180x180
-  // <SearchBox placeholder="search monsters" handleChange={aFunction}/>
-  // components: arrow function and class
-  // title: Bigelow Rules font
-  // deploy to github: https://zhangmyihua.github.io/monsters-rolodex/
-  // this.setState((prevState, prevProps) => {
-  //   // prevState: lastest State
-  //   return {
-  //     // object of State
-  //   };
-  // });
-  // 045 Class Methods and Arrow Functions.mp4
-
   async componentDidMount() {
     const response = await fetch('https://jsonplaceholder.typicode.com/users/');
     const data = await response.json();
