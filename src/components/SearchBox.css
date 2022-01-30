@@ -1,0 +1,11 @@
+.SearchBox {
+  text-align: center;
+}
+
+.SearchBox__input {
+  padding: 1.6rem 0.8rem;
+  font-size: 1.6rem;
+  color: #999;
+  outline: none;
+  width: 20rem;
+}

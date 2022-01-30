@@ -1,0 +1,24 @@
+.Card {
+  background: #95dada;
+  min-height: 40rem;
+  text-align: center;
+  border-radius: 0.5rem;
+  border: 1px solid #777;
+  transition: transform 0.4s ease;
+}
+
+.Card:hover {
+  cursor: pointer;
+  transform: scale(1.05);
+}
+
+.Card__img {
+  width: 80%;
+  display: block;
+  margin: 0 auto;
+}
+
+.Card__title,
+.Card__email {
+  margin-top: 3rem;
+}
